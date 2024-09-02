@@ -2,9 +2,9 @@
 
 En una carpeta separada de la de antibunching he creado el nuevo archivo README.md
 
-Orden:
-git add
-git commit
+Orden: -
+git add -
+git commit -
 git push
 
 hello 1
