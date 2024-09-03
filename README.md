@@ -5,7 +5,7 @@ En una carpeta separada de la de antibunching he creado el nuevo archivo README.
 He seguido este [vídeo](https://youtu.be/RGOj5yH7evk)
 
 **Orden:** \
-git add \
+git add .\
 git commit -m "mensaje" -m "description" \
 git push
 
