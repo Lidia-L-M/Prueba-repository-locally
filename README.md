@@ -7,5 +7,5 @@ git add -
 git commit -
 git push
 
-hello 1 \\
+hello 1 \
 hello 3
