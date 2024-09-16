@@ -11,4 +11,5 @@ git push
 
 **Cambiar la ubicación a un determinado folder**
 cd .. "ir hacia atrás en folder"\
+cd nombre_del_folder "se mueve a este folder"
 
