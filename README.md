@@ -10,5 +10,5 @@ git commit -m "mensaje" -m "description" \
 git push
 
 **Cambiar la ubicación a un determinado folder**
-
+cd .. "ir hacia atrás en folder"\
 
